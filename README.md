@@ -40,11 +40,11 @@ To Install This Tool On Both Termux Or Linux
 
 | System         | Available                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Termux |âœ“
-| Kali Linux | âœ“
-| Ubuntu | âœ“
-|  Mac Os | âœ“
-| Windows |  âœ“
+| Termux |✓“
+| Kali Linux | ✓“
+| Ubuntu | ✓“
+|  Mac Os | ✓“
+| Windows |  ✓“
 
 
 ## DISCLAIMER
