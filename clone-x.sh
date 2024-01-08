@@ -28,7 +28,10 @@ if [ "$option" == "1" ]; then
     read -p "Enter Repository Name: " repo
     sleep 0.8
     clear
+    cd 
     git clone "https://github.com/$owner/$repo"
+    cd Clone-x
+    ./clone-x.sh
 elif [ "$option" == "2" ]; then
     read -p "Enter or Paste Link Here : " link
     git clone "$link"
