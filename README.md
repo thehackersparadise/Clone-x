@@ -1,18 +1,69 @@
-# Clone-x
-CLONE-X is a command-line tool developed by The Hackers Paradise that offers convenient options for cloning GitHub repositories and opening web pages. It features a user-friendly interface and provides several functionalities to simplify the process.
 
-Upon execution, CLONE-X displays a clear header with the tool's name and contact information for The Hackers Paradise on Instagram, YouTube, and Telegram. It also acknowledges the original authorship of the tool.
+# Clone-X
 
-The tool offers five main options to choose from. The first option allows users to clone repositories by entering the owner's name and the repository's name. CLONE-X then initiates a Git clone operation using the specified details.
+CLONE-X is a command-line tool developed by The Hackers Paradise that offers convenient options for cloning GitHub repositories and opening web pages. It features a user-friendly interface and provides several functionalities to simplify the process. Upon execution, CLONE-X displays a clear header with the tool's name .It acknowledges the original authorship of the tool.
 
-The second option enables users to clone repositories directly by pasting the repository's URL. This option is useful for cloning repositories without having to manually specify the owner and repository name.
 
-The third option lets users open web pages by entering the URL. CLONE-X utilizes the xdg-open command to launch the default web browser and navigate to the specified URL. This functionality provides a convenient way to access web content without leaving the command-line interface.
 
-The fourth option, labeled "Find Tools," is currently under development and not yet implemented. The tool displays a message expressing gratitude for using the tool and announces that this feature will be added in the future.
+## Installation 
 
-Finally, the fifth option allows users to quit the tool. Upon choosing this option, CLONE-X displays the tool's header once again, expresses gratitude for using the tool, and encourages users to return in the future.
+To Install This Tool On Both Termux Or Linux
 
-CLONE-X aims to simplify the process of cloning GitHub repositories and accessing web content through a command-line interface. It provides a straightforward and efficient way to clone repositories based on owner and repository names or by directly pasting the repository's URL. The option to open web pages enhances its versatility.
+```bash
+  apt update -y
+```
+```bash
+  apt upgrade -y
+```
+```bash
+  apt install git
+```
+```bash
+  git clone https://github.com/THEHACKERSPARADISE/Clone-x
+```
+```bash
+  cd Clone-x
+```
+```bash
+  chmod +x setup.sh clone-x.sh
+```
+```bash
+  ./setup.sh
+```
+```bash
+ ./clone-x.sh
+```
 
-Developed by The Hackers Paradise, CLONE-X is an evolving tool with potential future updates and additional features. It offers a glimpse into the developer's expertise and commitment to providing useful tools for the developer and hacker community.
+
+
+## Supported Systems
+
+| System         | Available                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Termux |âœ“
+| Kali Linux | âœ“
+| Ubuntu | âœ“
+|  Mac Os | âœ“
+| Windows |  âœ“
+
+
+## DISCLAIMER
+
+
+
+`THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY`
+
+
+
+## Authors
+
+- [@THEHACKERSPARADISE](https://www.github.com/THEHACKERSPARADISE)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at @thehackersparadise_ 
+
+
+## About Me
+I'm a ,Ethical Hacker,Cyber Security Enthusiast And Also A Frontend Developer. 
