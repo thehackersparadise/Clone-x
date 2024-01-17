@@ -52,6 +52,8 @@ To Install This Tool On Both Termux Or Linux
 
 
 `THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY`
+## PRACTICAL VIDEO
+- [YOUTUBE](https://youtube.com/shorts/R5ePpfCeySU?si=EryY-G9a0tZolffj)
 
 
 
