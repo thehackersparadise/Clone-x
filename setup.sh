@@ -17,6 +17,7 @@ apt install git -y
 echo -e "${GREEN} installed Git...${WHITE}2"
 sleep 0.8
 apt install cmatrix -y
-
+apt install figlet 
+echo -e "${GREEN} installed Figlet...${WHITE}2"
 exit 0
 
